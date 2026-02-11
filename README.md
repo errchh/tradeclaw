@@ -4,7 +4,7 @@ A crypto trading intellegence AI agent based-on HKUDS/nanobot inspired by OpenCl
 
 # Demo
 
-DEMO.MOV
+[tradeclaw video demo](DEMO.mp4)
 
 ## Quick Start
 
