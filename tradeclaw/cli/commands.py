@@ -22,7 +22,7 @@ from tradeclaw import __version__, __logo__
 
 app = typer.Typer(
     name="tradeclaw",
-    help=f"{__logo__} tradeclaw - Personal AI Trading Assistant",
+    help=f"{__logo__} tradeclaw - AI Crypto Trading Intellegence Assistant",
     no_args_is_help=True,
 )
 
