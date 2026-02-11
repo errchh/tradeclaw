@@ -24,3 +24,4 @@ botpy.log
 .opencode
 .roo
 openspec
+.ruff_cache
