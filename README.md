@@ -2,6 +2,10 @@
 
 A crypto trading intellegence AI agent based-on HKUDS/nanobot inspired by OpenClaw. 
 
+# Demo
+
+DEMO.MOV
+
 ## Quick Start
 
 ```bash
