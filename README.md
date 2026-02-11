@@ -8,7 +8,9 @@ A crypto trading intellegence AI agent based-on HKUDS/nanobot inspired by OpenCl
 cd tradeclaw
 uv run python -m tradeclaw
 
-# Not available yet
+OR
+
+pip install tradeclaw
 tradeclaw onboard                    # Initialize config
 # Add API key to ~/.tradeclaw/config.json
 tradeclaw agent -m "Identify momentum in last 6 hours."     # Single query
