@@ -26,3 +26,9 @@ Further instruction in agent skills.
 # Link to slide
 
 https://github.com/errchh/tradeclaw/SUBMISSION/
+
+
+====
+venv .venv/bin/activate
+tradeclaw gateway
+telegram tradeclaw_demobot
