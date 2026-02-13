@@ -1,6 +1,6 @@
 # tradeclaw
 
-A crypto trading intellegence AI agent based-on HKUDS/nanobot inspired by OpenClaw. 
+A real-time crypto trading dashboard in Telegram chat. An AI agent based-on HKUDS/nanobot inspired by Clawdbot. 
 
 # Demo
 
@@ -31,28 +31,27 @@ tradeclaw agent                      # Interactive mode
 
 ## Features
 
-OpenClaw for Crypto Trading Intellegence using Coingecko.
+Clawdbot of real-time crypto trading dashboard using CoinGecko.
 
 #### Descriptions
 
-An AI agent which has access to crypto trading datasets, provides alert monitor, trading momentum scanner and answer pricing data. 
+An AI agent which has access to crypto trading real-time data, provides alert monitor, trading momentum scanner and answer pricing data. 
 
 #### Problem
 
 Dashboard is not feasible to check on phone. 
 
-OpenClaw demostrated general public is happy about interact an AI agent through mobile messenging app.
+Clawdbot demostrated general public is happy about interacting AI agent through mobile messenging app.
 
 #### Solution
 
-Crypto trading data is presented as chats via AI agent, instead of interacting with dashboard. (echo with a trend talked by one of the Concensus stage speaker).
+Crypto trading data is presented as chats with AI agent, instead of interacting with a dashboard. (echo with a trend talked by one of the Concensus stage speaker).
 
 #### Tech descriptions
 
-Based on HKUDS/nanobot, which is a lightweight version of OpenClaw / Moltbot. 
+Based on HKUDS/nanobot, which is a lightweight version of Clawdbot. 
 
-Wrapped functionalities in subagents, 
-Further instructions in agent skills.
+Wrapped functionalities in subagents, further instructions in agent skills.
 
 ## Configuration
 
